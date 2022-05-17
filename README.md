@@ -1,8 +1,7 @@
 - @alanbrzu
-- Web3
 - Learning to code at the moment
-- Trading
-- 📫 How to reach me ...
+- Trading ... DeFi
+- alanbrzu@gmail.com
 
 <!---
 alanbrzu/alanbrzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
