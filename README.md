@@ -1,6 +1,6 @@
 - @alanbrzu
-- Learning to code at the moment
-- Trading ... DeFi
+- Building apps
+- Crypto
 - alanbrzu@gmail.com
 
 <!---
