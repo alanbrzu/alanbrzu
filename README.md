@@ -1,5 +1,5 @@
 - @alanbrzu
-- Building apps
+- Building
 - Crypto
 - alanbrzu@gmail.com
 
