@@ -1,5 +1,4 @@
 - @alanbrzu
-- Building
 - Crypto
 - alanbrzu@gmail.com
 
