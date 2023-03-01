@@ -1,6 +1,4 @@
-- @alanbrzu
-- Crypto
-- alanbrzu@gmail.com
+- twitter: @alanbzr
 
 <!---
 alanbrzu/alanbrzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
